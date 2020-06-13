@@ -1,3 +1,6 @@
 node_modules
 cypress/screenshots
 cypress/videos
+mochawesome-report
+TestReport
+tests-report.json
