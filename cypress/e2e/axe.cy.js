@@ -9,16 +9,21 @@ describe('Axe Demo', () => {
     cy.checkA11y();
 
     // If you want to exclude certain elements
-    // cy.checkA11y({ exclude: ['.new-todo'] });
+    // cy.checkA11y({ exclude: ['.learn'] });
 
     // If you only want to check a specific element
-    // cy.checkA11y('.new-todo');
+    // cy.checkA11y('.learn');
 
     // If you want to disable some rules
     // cy.checkA11y(null, {
     //   rules: {
     //     'color-contrast': { enabled: false },
     //   },
+    // });
+
+    // If you want to filter impact criteria
+    // cy.checkA11y(null, {
+    //   includedImpacts: ['moderate']
     // });
   });
 });
