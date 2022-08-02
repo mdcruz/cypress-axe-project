@@ -8,3 +8,4 @@ A sample project to demonstrate how to catch basic accessibility issues with Cyp
 To install dependencies, please run `npm i` on the root of this project
 
 Just for demo purposes.
+This one as well.
