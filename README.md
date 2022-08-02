@@ -6,3 +6,5 @@ A sample project to demonstrate how to catch basic accessibility issues with Cyp
 
 ## Installing Dependencies
 To install dependencies, please run `npm i` on the root of this project
+
+Just for demo purposes.
